@@ -4,6 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/kyotrue" target="blank"><img src="https://img.shields.io/twitter/follow/kyotrue?logo=twitter&style=for-the-badge" alt="kyotrue" /></a> </p>
 
+- 🔭 I’m currently working on 
+
+- 🌱 I’m currently learning
+
+- 💬 Ask me about 
+
+- 📫 How to reach me **alantanadi10@gmail.com**
+
+- ⚡ Fun fact **I am Basketball Player**
+
+
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KingKyoTrue&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KingKyoTrue&theme=monokai&hide_border=false)<br/>
