@@ -1,5 +1,5 @@
-<p align"center"> <b> Hi, I'm Alan Tanadi </b> </p>
-<p align"center"> learning and intrested to software Development </p>
+<p align="center"> <b> Hi, I'm Alan Tanadi </b> </p>
+<p align="center"> learning and intrested to software Development </p>
 
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KingKyoTrue&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
