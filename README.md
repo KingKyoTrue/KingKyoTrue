@@ -7,7 +7,11 @@
 
 
 <p align="center"> <b> Thanks for visiting my profile, see u next time! </b> </p>
-<p align="center"> 
+!<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/KingKyoTrue/count.svg" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=kyomel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
