@@ -1,8 +1,12 @@
 <h1 align="center"> <b> Hi, I'm Alan Tanadi </b> </h1>
-<h3 align="center"> learning and intrested to software Development </h3>
+<h3 align="center"> learning and intrested to Software Development </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/kyotrue" target="blank"><img src="https://img.shields.io/twitter/follow/kyotrue?logo=twitter&style=for-the-badge" alt="kyotrue" /></a> </p>
+
+
+
+
 
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KingKyoTrue&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
