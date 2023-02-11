@@ -1,5 +1,5 @@
-# About me:
-learning and intrested to software Development
+<h1 align"center"> <b> Hi, I'm Alan Tanadi </b> </h1>
+<h3 align"center"> learning and intrested to software Development </h3>
 
 ## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KingKyoTrue&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
